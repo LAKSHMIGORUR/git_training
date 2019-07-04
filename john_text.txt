@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 Adding something in John's Repo
+=======
+These are amber's changes
+
+Adding few more lines
+>>>>>>> 3f33a607a4679dfc32cf7536142ce456ebd1b2e7
+
+Adding the lines to be merged by using fetch command from amber's repo
